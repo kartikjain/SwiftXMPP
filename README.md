@@ -2,12 +2,21 @@ SwiftXMPP
 
 4th Oct 2015:
 Updated by Kartik Jain
+
+
+
 kartikj2012@gmail.com
 
 
 
 Updated to work with Swift 2
+
+
+
 This swift 2 code connects to an xmpp server such as Openfire
+
+
+
 Replace localhost with your own host configurations
 
 
